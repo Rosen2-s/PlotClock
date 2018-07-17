@@ -1,5 +1,5 @@
 # PlotClock
-Reloj que dibuja la hora con un fibrón
+Reloj que dibuja la hora con un fibrón sobre una superficie plana.
 
 
 
